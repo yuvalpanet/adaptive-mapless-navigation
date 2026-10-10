@@ -1,0 +1,22 @@
+agent,run,training_steps,goal_pct,collision_pct,timeout_pct,mean_return
+TD3,seed0,500000,92.5,7.0,0.5,78.02
+TD3,seed1,500000,91.0,8.5,0.5,75.79
+TD3,seed2,500000,95.0,5.0,0.0,83.48
+ITD3 (one-step),seed0,500000,12.5,58.5,29.0,-73.46
+ITD3 (one-step),seed1,500000,11.5,62.0,26.5,-76.64
+ITD3 (one-step),seed2,500000,12.0,51.5,36.5,-70.74
+ITD3 (multi-step),seed0,500000,57.5,42.5,0.0,9.58
+ITD3 (multi-step),seed1,500000,6.0,91.0,3.0,-92.61
+ITD3 (multi-step),seed2,500000,14.5,56.0,29.5,-69.68
+ITD3 without bonus,seed0,200000,13.5,32.5,54.0,-55.6
+ITD3 without bonus,seed1,200000,16.5,39.5,44.0,-56.99
+TD3 + one-step bonus,seed0,500000,96.5,3.5,0.0,86.79
+TD3 + one-step bonus,seed1,500000,97.5,1.5,1.0,88.93
+TD3 + one-step bonus,seed2,500000,95.0,5.0,0.0,83.31
+TD3 + multi-step bonus,seed0,500000,95.5,4.5,0.0,84.14
+TD3 + multi-step bonus,seed1,500000,95.0,5.0,0.0,83.56
+TD3 + multi-step bonus,seed2,500000,96.0,4.0,0.0,84.97
+PPO,seed0,500000,91.0,9.0,0.0,73.67
+PPO,seed1,500000,38.0,11.5,50.5,-10.36
+PPO,seed2,500000,90.5,9.5,0.0,72.95
+Random,-,-,0.0,62.0,38.0,-94.34

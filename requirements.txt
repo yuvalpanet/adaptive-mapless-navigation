@@ -1,0 +1,9 @@
+gymnasium==1.2.3
+matplotlib==3.10.7
+numpy==2.3.5
+pygame==2.6.1
+rich==15.0.0
+stable-baselines3==2.8.0
+tensorboard==2.20.0
+torch==2.12.1
+tqdm==4.67.1

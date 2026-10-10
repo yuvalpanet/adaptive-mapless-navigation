@@ -1,0 +1,172 @@
+td3  |  seed 2  |  device: cpu  |  obs_dim: 51  |  500000 steps, warmup 10000
+
+[eval] Steps   10000  |  mean return   -89.0  |  goal 0%  collision 50%  timeout 50%
+Episode    50  |  Steps   16741  |  Rolling avg (50ep):   -83.42
+[eval] Steps   20000  |  mean return   -59.5  |  goal 20%  collision 50%  timeout 30%
+[eval] Steps   30000  |  mean return   -51.0  |  goal 25%  collision 50%  timeout 25%
+Episode   100  |  Steps   32346  |  Rolling avg (50ep):   -47.15
+[eval] Steps   40000  |  mean return   -66.7  |  goal 15%  collision 55%  timeout 30%
+Episode   150  |  Steps   43991  |  Rolling avg (50ep):   -53.21
+[eval] Steps   50000  |  mean return   -58.7  |  goal 20%  collision 55%  timeout 25%
+Episode   200  |  Steps   53827  |  Rolling avg (50ep):   -65.59
+[eval] Steps   60000  |  mean return   -27.7  |  goal 30%  collision 30%  timeout 40%
+Episode   250  |  Steps   65484  |  Rolling avg (50ep):   -25.23
+[eval] Steps   70000  |  mean return   -18.8  |  goal 35%  collision 25%  timeout 40%
+Episode   300  |  Steps   76334  |  Rolling avg (50ep):   -21.61
+[eval] Steps   80000  |  mean return    18.4  |  goal 60%  collision 20%  timeout 20%
+Episode   350  |  Steps   86325  |  Rolling avg (50ep):     4.11
+[eval] Steps   90000  |  mean return     6.4  |  goal 60%  collision 40%  timeout 0%
+Episode   400  |  Steps   94054  |  Rolling avg (50ep):    32.63
+[eval] Steps  100000  |  mean return    81.7  |  goal 95%  collision 5%  timeout 0%
+Episode   450  |  Steps  100215  |  Rolling avg (50ep):    41.77
+Episode   500  |  Steps  105619  |  Rolling avg (50ep):    73.29
+Episode   550  |  Steps  109715  |  Rolling avg (50ep):    59.91
+[eval] Steps  110000  |  mean return    81.0  |  goal 95%  collision 5%  timeout 0%
+Episode   600  |  Steps  114900  |  Rolling avg (50ep):    67.73
+Episode   650  |  Steps  119716  |  Rolling avg (50ep):    66.47
+[eval] Steps  120000  |  mean return    60.7  |  goal 85%  collision 15%  timeout 0%
+Episode   700  |  Steps  125571  |  Rolling avg (50ep):    54.39
+Episode   750  |  Steps  129548  |  Rolling avg (50ep):    72.15
+[eval] Steps  130000  |  mean return    82.1  |  goal 95%  collision 5%  timeout 0%
+Episode   800  |  Steps  134406  |  Rolling avg (50ep):    76.38
+Episode   850  |  Steps  137612  |  Rolling avg (50ep):    85.69
+[eval] Steps  140000  |  mean return    91.7  |  goal 100%  collision 0%  timeout 0%
+Episode   900  |  Steps  141604  |  Rolling avg (50ep):    72.12
+Episode   950  |  Steps  145128  |  Rolling avg (50ep):    73.05
+Episode  1000  |  Steps  149385  |  Rolling avg (50ep):    73.58
+[eval] Steps  150000  |  mean return    72.9  |  goal 90%  collision 10%  timeout 0%
+Episode  1050  |  Steps  153643  |  Rolling avg (50ep):    83.58
+Episode  1100  |  Steps  157428  |  Rolling avg (50ep):    84.53
+[eval] Steps  160000  |  mean return    82.0  |  goal 95%  collision 5%  timeout 0%
+Episode  1150  |  Steps  160904  |  Rolling avg (50ep):    85.15
+Episode  1200  |  Steps  164450  |  Rolling avg (50ep):    77.01
+Episode  1250  |  Steps  168828  |  Rolling avg (50ep):    75.34
+[eval] Steps  170000  |  mean return    73.1  |  goal 90%  collision 10%  timeout 0%
+Episode  1300  |  Steps  172956  |  Rolling avg (50ep):    75.84
+Episode  1350  |  Steps  177053  |  Rolling avg (50ep):    79.91
+[eval] Steps  180000  |  mean return    65.6  |  goal 85%  collision 10%  timeout 5%
+Episode  1400  |  Steps  181858  |  Rolling avg (50ep):    78.49
+Episode  1450  |  Steps  185654  |  Rolling avg (50ep):    76.51
+Episode  1500  |  Steps  189683  |  Rolling avg (50ep):    72.04
+[eval] Steps  190000  |  mean return    81.7  |  goal 95%  collision 5%  timeout 0%
+Episode  1550  |  Steps  192898  |  Rolling avg (50ep):    89.67
+Episode  1600  |  Steps  196491  |  Rolling avg (50ep):    62.91
+[eval] Steps  200000  |  mean return    82.6  |  goal 95%  collision 5%  timeout 0%
+Episode  1650  |  Steps  200681  |  Rolling avg (50ep):    67.72
+Episode  1700  |  Steps  204356  |  Rolling avg (50ep):    88.75
+Episode  1750  |  Steps  207907  |  Rolling avg (50ep):    61.00
+[eval] Steps  210000  |  mean return    73.1  |  goal 90%  collision 10%  timeout 0%
+Episode  1800  |  Steps  211489  |  Rolling avg (50ep):    76.94
+Episode  1850  |  Steps  215900  |  Rolling avg (50ep):    75.28
+[eval] Steps  220000  |  mean return    83.3  |  goal 95%  collision 5%  timeout 0%
+Episode  1900  |  Steps  220310  |  Rolling avg (50ep):    63.28
+Episode  1950  |  Steps  224135  |  Rolling avg (50ep):    80.45
+Episode  2000  |  Steps  227812  |  Rolling avg (50ep):    72.75
+[eval] Steps  230000  |  mean return    89.9  |  goal 100%  collision 0%  timeout 0%
+Episode  2050  |  Steps  231208  |  Rolling avg (50ep):    81.31
+Episode  2100  |  Steps  235577  |  Rolling avg (50ep):    77.36
+Episode  2150  |  Steps  239246  |  Rolling avg (50ep):    68.76
+[eval] Steps  240000  |  mean return    82.5  |  goal 95%  collision 5%  timeout 0%
+Episode  2200  |  Steps  242925  |  Rolling avg (50ep):    74.74
+Episode  2250  |  Steps  247017  |  Rolling avg (50ep):    83.92
+[eval] Steps  250000  |  mean return    94.1  |  goal 100%  collision 0%  timeout 0%
+Episode  2300  |  Steps  251485  |  Rolling avg (50ep):    65.16
+Episode  2350  |  Steps  255964  |  Rolling avg (50ep):    79.14
+Episode  2400  |  Steps  259502  |  Rolling avg (50ep):    77.02
+[eval] Steps  260000  |  mean return    84.0  |  goal 95%  collision 5%  timeout 0%
+Episode  2450  |  Steps  263650  |  Rolling avg (50ep):    79.80
+Episode  2500  |  Steps  267167  |  Rolling avg (50ep):    89.07
+[eval] Steps  270000  |  mean return    84.1  |  goal 95%  collision 5%  timeout 0%
+Episode  2550  |  Steps  271254  |  Rolling avg (50ep):    83.93
+Episode  2600  |  Steps  275581  |  Rolling avg (50ep):    91.45
+[eval] Steps  280000  |  mean return    84.0  |  goal 95%  collision 5%  timeout 0%
+Episode  2650  |  Steps  280259  |  Rolling avg (50ep):    78.74
+Episode  2700  |  Steps  283657  |  Rolling avg (50ep):    81.30
+Episode  2750  |  Steps  286644  |  Rolling avg (50ep):    90.13
+Episode  2800  |  Steps  289475  |  Rolling avg (50ep):    90.44
+[eval] Steps  290000  |  mean return    64.7  |  goal 85%  collision 15%  timeout 0%
+Episode  2850  |  Steps  292560  |  Rolling avg (50ep):    77.93
+Episode  2900  |  Steps  295871  |  Rolling avg (50ep):    79.48
+Episode  2950  |  Steps  298998  |  Rolling avg (50ep):    81.85
+[eval] Steps  300000  |  mean return    64.3  |  goal 85%  collision 15%  timeout 0%
+Episode  3000  |  Steps  302784  |  Rolling avg (50ep):    90.53
+Episode  3050  |  Steps  306186  |  Rolling avg (50ep):    85.30
+Episode  3100  |  Steps  309947  |  Rolling avg (50ep):    84.58
+[eval] Steps  310000  |  mean return    63.9  |  goal 85%  collision 15%  timeout 0%
+Episode  3150  |  Steps  314181  |  Rolling avg (50ep):    89.63
+Episode  3200  |  Steps  317157  |  Rolling avg (50ep):    94.15
+[eval] Steps  320000  |  mean return    93.9  |  goal 100%  collision 0%  timeout 0%
+Episode  3250  |  Steps  320475  |  Rolling avg (50ep):    81.46
+Episode  3300  |  Steps  324963  |  Rolling avg (50ep):    83.12
+Episode  3350  |  Steps  327997  |  Rolling avg (50ep):    90.03
+[eval] Steps  330000  |  mean return    74.7  |  goal 90%  collision 10%  timeout 0%
+Episode  3400  |  Steps  331709  |  Rolling avg (50ep):    92.68
+Episode  3450  |  Steps  335380  |  Rolling avg (50ep):    72.76
+Episode  3500  |  Steps  339094  |  Rolling avg (50ep):    80.67
+[eval] Steps  340000  |  mean return    84.1  |  goal 95%  collision 5%  timeout 0%
+Episode  3550  |  Steps  342296  |  Rolling avg (50ep):    89.70
+Episode  3600  |  Steps  345709  |  Rolling avg (50ep):    89.27
+Episode  3650  |  Steps  348654  |  Rolling avg (50ep):    86.21
+[eval] Steps  350000  |  mean return    84.5  |  goal 95%  collision 5%  timeout 0%
+Episode  3700  |  Steps  352748  |  Rolling avg (50ep):    87.91
+Episode  3750  |  Steps  356056  |  Rolling avg (50ep):    85.48
+[eval] Steps  360000  |  mean return    84.3  |  goal 95%  collision 5%  timeout 0%
+Episode  3800  |  Steps  360350  |  Rolling avg (50ep):    83.51
+Episode  3850  |  Steps  364576  |  Rolling avg (50ep):    77.65
+Episode  3900  |  Steps  368173  |  Rolling avg (50ep):    76.91
+[eval] Steps  370000  |  mean return    94.1  |  goal 100%  collision 0%  timeout 0%
+Episode  3950  |  Steps  371678  |  Rolling avg (50ep):    89.09
+Episode  4000  |  Steps  375303  |  Rolling avg (50ep):    88.85
+Episode  4050  |  Steps  378515  |  Rolling avg (50ep):    89.68
+[eval] Steps  380000  |  mean return    83.4  |  goal 95%  collision 5%  timeout 0%
+Episode  4100  |  Steps  381991  |  Rolling avg (50ep):    77.15
+Episode  4150  |  Steps  385314  |  Rolling avg (50ep):    85.45
+Episode  4200  |  Steps  388618  |  Rolling avg (50ep):    93.49
+[eval] Steps  390000  |  mean return    93.9  |  goal 100%  collision 0%  timeout 0%
+Episode  4250  |  Steps  391672  |  Rolling avg (50ep):    85.99
+Episode  4300  |  Steps  394395  |  Rolling avg (50ep):    86.65
+Episode  4350  |  Steps  398230  |  Rolling avg (50ep):    84.43
+[eval] Steps  400000  |  mean return    94.2  |  goal 100%  collision 0%  timeout 0%
+Episode  4400  |  Steps  401670  |  Rolling avg (50ep):    93.22
+Episode  4450  |  Steps  406056  |  Rolling avg (50ep):    75.33
+Episode  4500  |  Steps  409197  |  Rolling avg (50ep):    77.82
+[eval] Steps  410000  |  mean return    84.0  |  goal 95%  collision 5%  timeout 0%
+Episode  4550  |  Steps  412241  |  Rolling avg (50ep):    86.01
+Episode  4600  |  Steps  415387  |  Rolling avg (50ep):    77.81
+Episode  4650  |  Steps  418484  |  Rolling avg (50ep):    85.91
+[eval] Steps  420000  |  mean return    84.2  |  goal 95%  collision 5%  timeout 0%
+Episode  4700  |  Steps  422285  |  Rolling avg (50ep):    84.50
+Episode  4750  |  Steps  425221  |  Rolling avg (50ep):    86.23
+Episode  4800  |  Steps  428093  |  Rolling avg (50ep):    82.36
+[eval] Steps  430000  |  mean return    94.0  |  goal 100%  collision 0%  timeout 0%
+Episode  4850  |  Steps  430989  |  Rolling avg (50ep):    94.31
+Episode  4900  |  Steps  433973  |  Rolling avg (50ep):    82.13
+Episode  4950  |  Steps  437320  |  Rolling avg (50ep):    89.41
+[eval] Steps  440000  |  mean return    93.0  |  goal 100%  collision 0%  timeout 0%
+Episode  5000  |  Steps  440468  |  Rolling avg (50ep):    89.80
+Episode  5050  |  Steps  443331  |  Rolling avg (50ep):    90.37
+Episode  5100  |  Steps  446819  |  Rolling avg (50ep):    79.12
+Episode  5150  |  Steps  449943  |  Rolling avg (50ep):    93.85
+[eval] Steps  450000  |  mean return    93.7  |  goal 100%  collision 0%  timeout 0%
+Episode  5200  |  Steps  453284  |  Rolling avg (50ep):    89.42
+Episode  5250  |  Steps  456404  |  Rolling avg (50ep):    93.86
+Episode  5300  |  Steps  459641  |  Rolling avg (50ep):    89.63
+[eval] Steps  460000  |  mean return    92.0  |  goal 100%  collision 0%  timeout 0%
+Episode  5350  |  Steps  462396  |  Rolling avg (50ep):    90.59
+Episode  5400  |  Steps  465926  |  Rolling avg (50ep):    93.04
+Episode  5450  |  Steps  469048  |  Rolling avg (50ep):    89.86
+[eval] Steps  470000  |  mean return    84.9  |  goal 95%  collision 5%  timeout 0%
+Episode  5500  |  Steps  472591  |  Rolling avg (50ep):    85.01
+Episode  5550  |  Steps  475395  |  Rolling avg (50ep):    94.49
+Episode  5600  |  Steps  478106  |  Rolling avg (50ep):    86.68
+[eval] Steps  480000  |  mean return    93.1  |  goal 100%  collision 0%  timeout 0%
+Episode  5650  |  Steps  481468  |  Rolling avg (50ep):    89.38
+Episode  5700  |  Steps  484940  |  Rolling avg (50ep):    85.16
+Episode  5750  |  Steps  488340  |  Rolling avg (50ep):    89.30
+[eval] Steps  490000  |  mean return    92.9  |  goal 100%  collision 0%  timeout 0%
+Episode  5800  |  Steps  491793  |  Rolling avg (50ep):    77.19
+Episode  5850  |  Steps  494870  |  Rolling avg (50ep):    77.95
+Episode  5900  |  Steps  498750  |  Rolling avg (50ep):    92.34
+[eval] Steps  500000  |  mean return    74.2  |  goal 90%  collision 10%  timeout 0%
+
+Training complete. Model and logs saved in runs/td3/seed2/

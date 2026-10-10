@@ -1,0 +1,54 @@
+ppo  |  seed 0  |  500000 steps
+
+[eval] Steps   10000  |  mean return   -89.2  |  goal 0%  collision 50%  timeout 50%
+[eval] Steps   20000  |  mean return   -74.9  |  goal 0%  collision 30%  timeout 70%
+[eval] Steps   30000  |  mean return   -64.4  |  goal 5%  collision 25%  timeout 70%
+[eval] Steps   40000  |  mean return   -67.2  |  goal 5%  collision 30%  timeout 65%
+[eval] Steps   50000  |  mean return   -44.1  |  goal 15%  collision 15%  timeout 70%
+[eval] Steps   60000  |  mean return   -45.0  |  goal 10%  collision 10%  timeout 80%
+[eval] Steps   70000  |  mean return   -56.4  |  goal 0%  collision 10%  timeout 90%
+[eval] Steps   80000  |  mean return   -44.6  |  goal 10%  collision 10%  timeout 80%
+[eval] Steps   90000  |  mean return   -57.6  |  goal 0%  collision 10%  timeout 90%
+[eval] Steps  100000  |  mean return   -50.8  |  goal 5%  collision 10%  timeout 85%
+[eval] Steps  110000  |  mean return   -72.8  |  goal 0%  collision 30%  timeout 70%
+[eval] Steps  120000  |  mean return   -40.1  |  goal 10%  collision 5%  timeout 85%
+[eval] Steps  130000  |  mean return   -47.4  |  goal 10%  collision 15%  timeout 75%
+[eval] Steps  140000  |  mean return   -39.7  |  goal 15%  collision 15%  timeout 70%
+[eval] Steps  150000  |  mean return   -33.6  |  goal 30%  collision 30%  timeout 40%
+[eval] Steps  160000  |  mean return   -29.8  |  goal 25%  collision 15%  timeout 60%
+[eval] Steps  170000  |  mean return     0.9  |  goal 50%  collision 20%  timeout 30%
+[eval] Steps  180000  |  mean return    -3.7  |  goal 45%  collision 20%  timeout 35%
+[eval] Steps  190000  |  mean return     6.4  |  goal 55%  collision 25%  timeout 20%
+[eval] Steps  200000  |  mean return    21.9  |  goal 65%  collision 25%  timeout 10%
+[eval] Steps  210000  |  mean return    53.5  |  goal 85%  collision 15%  timeout 0%
+[eval] Steps  220000  |  mean return    43.3  |  goal 80%  collision 20%  timeout 0%
+[eval] Steps  230000  |  mean return    69.9  |  goal 90%  collision 5%  timeout 5%
+[eval] Steps  240000  |  mean return    78.5  |  goal 95%  collision 5%  timeout 0%
+[eval] Steps  250000  |  mean return    71.7  |  goal 90%  collision 5%  timeout 5%
+[eval] Steps  260000  |  mean return    70.7  |  goal 90%  collision 10%  timeout 0%
+[eval] Steps  270000  |  mean return    59.8  |  goal 85%  collision 15%  timeout 0%
+[eval] Steps  280000  |  mean return    53.2  |  goal 80%  collision 20%  timeout 0%
+[eval] Steps  290000  |  mean return    82.2  |  goal 95%  collision 5%  timeout 0%
+[eval] Steps  300000  |  mean return    62.5  |  goal 85%  collision 15%  timeout 0%
+[eval] Steps  310000  |  mean return    62.6  |  goal 85%  collision 15%  timeout 0%
+[eval] Steps  320000  |  mean return    62.4  |  goal 85%  collision 15%  timeout 0%
+[eval] Steps  330000  |  mean return    62.3  |  goal 85%  collision 15%  timeout 0%
+[eval] Steps  340000  |  mean return    53.6  |  goal 80%  collision 20%  timeout 0%
+[eval] Steps  350000  |  mean return    63.3  |  goal 85%  collision 15%  timeout 0%
+[eval] Steps  360000  |  mean return    73.1  |  goal 90%  collision 10%  timeout 0%
+[eval] Steps  370000  |  mean return    82.6  |  goal 95%  collision 5%  timeout 0%
+[eval] Steps  380000  |  mean return    82.7  |  goal 95%  collision 5%  timeout 0%
+[eval] Steps  390000  |  mean return    73.1  |  goal 90%  collision 10%  timeout 0%
+[eval] Steps  400000  |  mean return    82.6  |  goal 95%  collision 5%  timeout 0%
+[eval] Steps  410000  |  mean return    53.2  |  goal 80%  collision 20%  timeout 0%
+[eval] Steps  420000  |  mean return    53.3  |  goal 80%  collision 20%  timeout 0%
+[eval] Steps  430000  |  mean return    53.6  |  goal 80%  collision 20%  timeout 0%
+[eval] Steps  440000  |  mean return    63.3  |  goal 85%  collision 15%  timeout 0%
+[eval] Steps  450000  |  mean return    63.9  |  goal 85%  collision 15%  timeout 0%
+[eval] Steps  460000  |  mean return    83.7  |  goal 95%  collision 5%  timeout 0%
+[eval] Steps  470000  |  mean return    74.1  |  goal 90%  collision 10%  timeout 0%
+[eval] Steps  480000  |  mean return    74.1  |  goal 90%  collision 10%  timeout 0%
+[eval] Steps  490000  |  mean return    54.5  |  goal 80%  collision 20%  timeout 0%
+[eval] Steps  500000  |  mean return    63.6  |  goal 85%  collision 15%  timeout 0%
+
+Training complete. Model and logs saved in runs/ppo/seed0/
